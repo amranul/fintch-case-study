@@ -26,7 +26,7 @@
 
 # H1 header
 Link here [Stole this from the web](https://commonmark.org/help/images/favicon.png)\
-Image here  ![inserted image here](https://commonmark.org/help/images/favicon.png)
+Image here    ![inserted image here](https://commonmark.org/help/images/favicon.png)
 ## H2 header
 ### H3 header
 
