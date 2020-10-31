@@ -18,7 +18,19 @@
     * **Description content:** Content for the description\
 ​
     * **Contributors:** The names of everyone in your group\
-​Khemero Lee & Amnran
+​Khemero Lee & Amranul
     * **H3 heading:** A title for the FinTech case study report\
 ​
     * **Case study content:** Content for the case study
+
+
+# H1 header
+Image here [Stole this from the web](https://commonmark.org/help/images/favicon.png)\
+Image here ![inserted image here](https://commonmark.org/help/images/favicon.png)
+## H2 header
+### H3 header
+
+[Link to code ](https://github.com/Khemero/Week-1-Activity-2/tree/main/code)\
+[Link to data](https://github.com/Khemero/Week-1-Activity-2/tree/main/data)\
+[Link to images](https://github.com/Khemero/Week-1-Activity-2/tree/main/data)\
+[link to references](https://github.com/Khemero/Week-1-Activity-2/tree/main/data)
