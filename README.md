@@ -5,7 +5,7 @@
 ​
     * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?\
 ​
-    * What is the prognosis for this company? Where do they expect to be in the future?\
+    * What is the prognosis for this company? Where do they expect to be in the future?
 
     4. Modify the README file to include the following features. **Note:** The list below includes the minimum requirements. Feel free to add other markdown features!
 ​
@@ -18,7 +18,7 @@
     * **Description content:** Content for the description\
 ​
     * **Contributors:** The names of everyone in your group\
-​
+​Khemero Lee & Amnran
     * **H3 heading:** A title for the FinTech case study report\
 ​
-    * **Case study content:** Content for the case study\
+    * **Case study content:** Content for the case study
