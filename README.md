@@ -1,0 +1,1 @@
+# fintch-case-study
