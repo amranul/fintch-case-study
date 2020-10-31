@@ -18,7 +18,7 @@
     * **Description content:** Content for the description\
 ​
     * **Contributors:** The names of everyone in your group\
-​Khemero Lee & Amranul
+​Khemero Lee & Amranul  
     * **H3 heading:** A title for the FinTech case study report\
 ​
     * **Case study content:** Content for the case study
