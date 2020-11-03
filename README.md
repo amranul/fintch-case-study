@@ -8,10 +8,9 @@
     * What is the prognosis for this company? Where do they expect to be in the future?
 
     4. Modify the README file to include the following features. **Note:** The list below includes the minimum requirements. Feel free to add other markdown features!
+# Alternative Finance 
 ​
-    * **H1 heading:** A title for the FinTech case study\
-​
-    * **Image:** An image relevant to the case study\
+    * **Image:** 
 ​
     * **H2 description:** A description header\
 ​
@@ -24,7 +23,7 @@
     * **Case study content:** Content for the case study
 
 
-# H1 header
+### Resources
 Link here [Stole this from the web](https://commonmark.org/help/images/favicon.png)\
 Image here    
 ![inserted image here](https://commonmark.org/help/images/favicon.png)
