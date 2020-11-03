@@ -12,7 +12,9 @@
 ​
     * **Image:** 
 ​
-    * **H2 description:** A description header\
+  ### crowdfunding, equity crowdfunding, revenue-based financing, online lenders, 
+  
+  ### peer-to-peer consumer and business lending, and invoice trading third party payment platforms
 ​
     * **Description content:** Content for the description\
 ​
